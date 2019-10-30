@@ -3,7 +3,7 @@ import React from 'react';
 
 const NoMatch = () => {
   return (
-    <div>Oops! Sorry it seems there is not such page!</div>
+    <div>Error 404...podana strona nie istnieje</div>
   );
 };
 

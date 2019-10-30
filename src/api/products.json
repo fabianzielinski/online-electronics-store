@@ -1,0 +1,26 @@
+ [
+  {
+    "id": 1,
+    "name": "Cyfron 1000",
+    "basePrice": 5000.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "/images/product.png",
+    "advertMessage": "Extra deal"
+  },
+  {
+  	"id": 2,
+    "name": "Cyfron 2000",
+    "basePrice": 6000.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "/images/product.png",
+    "advertMessage": "Extra deal"
+  },
+  {
+  	"id": 3,
+    "name": "Cyfron 3000",
+    "basePrice": 6500.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "/images/product.png",
+    "advertMessage": "Extra deal"
+  }
+ ]
