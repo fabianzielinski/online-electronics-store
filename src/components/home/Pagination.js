@@ -14,7 +14,7 @@ export default class Pagination extends Component {
           <a href="#"
             className={i === this.props.activePage ? 'pagination-link-active' : 'pagination-link'}
             onClick={e => {
-              e.preventDefault;
+              e.preventDefault();
               this.props.onPageNumClick(i);
             }}
             
