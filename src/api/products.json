@@ -35,7 +35,7 @@
       "id": 5,
       "name": "Elektron",
       "basePrice": 3500.00,
-      "description": "Sample product description. Product description placeholder.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod neque metus, et vehicula elit vestibulum sed. In sit amet massa in arcu dapibus malesuada. Duis tempor fringilla viverra. Mauris quis risus semper, gravida tortor sed, pharetra nisl. In hac habitasse platea dictumst. Donec condimentum pretium mauris, at consequat felis fringilla condimentum. Mauris varius urna libero, id sodales est bibendum eu. Curabitur ac mollis diam.",
       "imageUrl": "../images/5.jpg",
       "advertMessage": "Extra deal"
     },

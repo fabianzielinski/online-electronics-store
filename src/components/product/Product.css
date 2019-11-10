@@ -17,7 +17,8 @@
   min-height: 585px;
   min-width: 468px;
   background-color: #f5f5f5;
-  background-image: url(../../assets/images/1.png);
+  /*background-image: url(../../assets/images/1.png);*/
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
