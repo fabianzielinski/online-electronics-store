@@ -9,10 +9,10 @@ export default class HomePage extends Component {
     return (
       <div className="home-page">
         <div className="row">
-          <aside className="col-3 left-sidebar">
+          <aside className="col-md-3 col-sm-12 left-sidebar">
             <SortingWidgetContainer />
           </aside>
-          <section className="col-9 products-section">
+          <section className="col-md-9 col-sm-12 products-section">
             <ProductListContainer />
           </section>
         </div>

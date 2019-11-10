@@ -7,10 +7,10 @@ const Product = ({ product, onAddToCartClick }) => {
   return (
     <div className="product-page">
       <div className="product-container">
-        <div className="col">
+        <div className="col-md-6 col-sm-12">
           <div className="product-image-box" style={{ backgroundImage: 'url(' + product.imageUrl + ')' }}></div>
         </div>
-        <div className="col">
+        <div className="col-md-6 col-sm-12">
           <div className="product-details-box">
             <h1 className="product-name">{product.name}</h1>
             <div className="product-price">{product.basePrice}$</div>

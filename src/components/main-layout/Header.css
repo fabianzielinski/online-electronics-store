@@ -19,7 +19,8 @@
   color: #000000;
 }
 .navbar {
-  width: 70%;
+  width: 80%;
+  min-width: 250px;
   display: flex;
   justify-content: flex-end;
 }

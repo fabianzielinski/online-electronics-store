@@ -7,20 +7,20 @@ export const CartItem = ({ product, onPlusClick, onMinusClick, onRemoveProductCl
   return (
     <li className="cart-item">
       <div className="row align-items-center">
-        <div className="col-2">
+        <div className="col-md-2 col-sm-12">
           <div className="item-image-box" style={{ backgroundImage: 'url(' + product.imageUrl + ')' }}>
           </div>
         </div>
-        <div className="col-10 product-info">
+        <div className="col-md-10 col-sm-12 product-info">
           <h3 className="product-name">{product.name}</h3>
           <div className="row">
-            <div className="col-9">
+            <div className="col-md-9 col-sm-12">
               <p className="product-description">{product.description}</p>
             </div>
-            <div className="col-1">
+            <div className="col-md-1 col-sm-4">
               <div className="product-price">${product.basePrice}</div>
             </div>
-            <div className="col-2">
+            <div className="col-md-2 col-sm-8">
               <div className="cart-items-counter">
                 <a href="#" className="cart-action-btn"
                   onClick={(e) => {

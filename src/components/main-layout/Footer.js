@@ -7,12 +7,12 @@ export const Footer = () => {
     <footer className="footer">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-2">
+          <div className="col-md-2 col-sm-12">
             <span className="copyright-note">
               All rights reserved
             </span>
           </div>
-          <div className="col-10">
+          <div className="col-md-10 col-sm-12">
             <nav className="footer-nav">
               <Link className="footer-nav-link" to="/">Home</Link>
               <Link className="footer-nav-link" to="/faq">FAQ</Link>
