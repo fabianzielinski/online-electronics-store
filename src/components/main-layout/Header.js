@@ -10,9 +10,9 @@ const Header = () => {
     <header className="header">
       <div className="container">
         <div className="row align-items-center">
-          <div className="logo">
-            <Link className="logo-link" to="/">My Store Name</Link>
-          </div>
+          <Link className="logo-link" to="/">
+            <div className="logo" style={{ backgroundImage: "url('../images/Logo.png')" }}></div>
+          </Link>
           <nav className="navbar">
             <NavLink className="nav-link" exact to="/" activeClassName="active">Home</NavLink>
             <NavLink className="nav-link" exact to="/faq" activeClassName="active">FAQ</NavLink>

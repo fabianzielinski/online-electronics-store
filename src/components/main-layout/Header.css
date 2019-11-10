@@ -6,9 +6,12 @@
   text-transform: uppercase;
 }
 .logo {
-  width: 348px;
+  background-size: cover;
+  background-position: center;
+  min-width: 200px;
   font-size: 23px;
-  width: 30%;
+  width: 20%;
+  height: 60px;
   text-decoration: none;
 }
 
