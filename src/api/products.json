@@ -4,7 +4,7 @@
     "name": "Cyfron 1000",
     "basePrice": 5000.00,
     "description": "Sample product description. Product description placeholder.",
-    "imageUrl": "/images/computer.png",
+    "imageUrl": "../images/1.png",
     "advertMessage": "Extra deal"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Cyfron 2000",
     "basePrice": 6000.00,
     "description": "Sample product description. Product description placeholder.",
-    "imageUrl": "/images/computer.png",
+    "imageUrl": "../images/2.jpg",
     "advertMessage": "Extra deal"
   },
   {
@@ -20,7 +20,23 @@
     "name": "Cyfron 3000",
     "basePrice": 6500.00,
     "description": "Sample product description. Product description placeholder.",
-    "imageUrl": "/images/computer.png",
+    "imageUrl": "../images/3.jpg",
     "advertMessage": "Extra deal"
-  }
+  },
+  {
+    "id": 4,
+    "name": "keybord&mouse",
+    "basePrice": 700.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/3.jpg",
+    "advertMessage": "Extra deal"
+  },
+  {
+      "id": 5,
+      "name": "Elektron",
+      "basePrice": 3500.00,
+      "description": "Sample product description. Product description placeholder.",
+      "imageUrl": "../images/2.jpg",
+      "advertMessage": "Extra deal"
+    }
  ]

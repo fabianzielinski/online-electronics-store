@@ -21,7 +21,7 @@ const ProductBox = ({ product, isFavourite, onAddToCartClick }) => {
           </span>
         </div>
         <Link to={'/product/' + product.id}>
-          <div className="product-box-img-container">
+          <div className="product-box-img-container" style={{ backgroundImage: 'url(' + product.imageUrl + ')' }}>
           </div>
         </Link>
         <div className="product-box-footer">
