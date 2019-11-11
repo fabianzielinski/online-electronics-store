@@ -1,3 +1,10 @@
+
+Kodilla Last Project
+React, Javascript, HTML, CSS, Bootstrap, RWD
+Project Preview
+
+https://fabz-onlinestore.netlify.com/
+
 Available Scripts
 In the project directory, you can run:
 
