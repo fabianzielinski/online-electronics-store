@@ -1,6 +1,7 @@
 
-Kodilla Last Project
+Kodilla Last Project </br>
 React, Javascript, HTML, CSS, Bootstrap, RWD
+
 Project Preview
 
 https://fabz-onlinestore.netlify.com/
