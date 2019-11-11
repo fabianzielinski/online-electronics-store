@@ -1,0 +1,50 @@
+.product-container{
+  display: flex;
+  
+}
+
+.product-page .add-to-cart {
+  border: 1px solid #000000;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27px;
+  padding: 12px 50px;
+}
+
+.product-image-box {
+  min-height: 585px;
+  min-width: 468px;
+  background-color: #f5f5f5;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.product-details-box {
+  padding: 30px;
+}
+
+.product-page .product-name {
+font-size: 24px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 1.2px;
+}
+
+.product-page .product-price {
+opacity: 0.7;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0.9px;
+}
+
+.product-description {
+  /* Style for "Lorem ipsu" */
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0.9px;
+}

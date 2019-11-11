@@ -1,0 +1,71 @@
+.header {
+  display: flex;
+  justify-content: right;
+  margin: 0 auto;
+  padding: 40px;
+  text-transform: uppercase;
+}
+.logo {
+  background-size: cover;
+  background-position: center;
+  min-width: 200px;
+  font-size: 23px;
+  width: 20%;
+  height: 60px;
+  text-decoration: none;
+}
+
+.logo-link {
+  color: #000000;
+}
+.navbar {
+  width: 80%;
+  min-width: 250px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-link {
+  color: #9f9f9f;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 6.4px;
+  line-height: 26px;
+  display: inline-block;
+  margin: 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover, .active {
+  color: #000000;
+  opacity: 1;
+  text-decoration: none;
+}
+
+.shopping-cart-wrapper {
+  outline: 1px dashed green;
+}
+
+.shopping-cart-link {
+  color: #000000;
+  position: relative;
+}
+.shopping-cart-icon {
+  width: 30px;
+  height: 32px;
+}
+.shopping-cart-counter {
+  font-size: 12px;
+  letter-spacing: 0;
+  background-color: #000000;
+  border-radius: 50%;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  min-width: 20px;
+  line-height: 20px;
+  position: absolute;
+  right: -10px;
+  top: -5px;
+}
