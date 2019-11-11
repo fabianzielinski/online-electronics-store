@@ -1,4 +1,12 @@
 
+Kodilla Last Project
+
+React, Javascript, HTML, CSS, Bootstrap, RWD, Nodemailer, Axios, Firebase Functions
+
+Project Preview
+
+https://fabz-onlinestore.netlify.com/
+
 Available Scripts
 In the project directory, you can run:
 
