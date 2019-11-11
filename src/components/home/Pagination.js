@@ -28,13 +28,13 @@ export default class Pagination extends Component {
   render() {
     return (
       <div className="pagination">
-        <a className="pagination-btn" disabled href="#">
+        <a className="pagination-btn" disabled href="#" aria-label="Previous">
           <IosArrowRoundBack fontSize="42px" />
         </a>
         <ul className="pages-list">
           {this.renderPageNumbers(this.props.pageCount)}
         </ul>
-        <a className="pagination-btn" href="#">
+        <a className="pagination-btn" href="#" aria-label="Next">
           <IosArrowRoundForward fontSize="42px" />
         </a>
       </div>
