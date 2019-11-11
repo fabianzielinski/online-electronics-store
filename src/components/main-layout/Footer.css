@@ -1,0 +1,31 @@
+.footer {
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+.copyright-note {
+height: 18px;
+opacity: 0.5;
+color: #000000;
+font-size: 18px;
+font-weight: 400;
+line-height: 54px;
+letter-spacing: 0.9px;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: flex-end;
+  height: 15px;
+}
+
+.footer-nav-link {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+  text-decoration: none;
+  margin: 5px;
+}

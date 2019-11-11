@@ -1,0 +1,66 @@
+ [
+  {
+    "id": 1,
+    "name": "Cyfron 1000",
+    "basePrice": 5000.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/1.png",
+    "advertMessage": "Extra deal"
+  },
+  {
+  	"id": 2,
+    "name": "Cyfron 2000",
+    "basePrice": 6000.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/2.jpg",
+    "advertMessage": "Extra deal"
+  },
+  {
+  	"id": 3,
+    "name": "Cyfron 3000",
+    "basePrice": 6500.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/3.jpg",
+    "advertMessage": "Extra deal"
+  },
+  {
+    "id": 4,
+    "name": "keybord&mouse",
+    "basePrice": 700.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/4.jpg",
+    "advertMessage": "Extra deal"
+  },
+  {
+      "id": 5,
+      "name": "Elektron",
+      "basePrice": 3500.00,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce euismod neque metus, et vehicula elit vestibulum sed. In sit amet massa in arcu dapibus malesuada. Duis tempor fringilla viverra. Mauris quis risus semper, gravida tortor sed, pharetra nisl. In hac habitasse platea dictumst. Donec condimentum pretium mauris, at consequat felis fringilla condimentum. Mauris varius urna libero, id sodales est bibendum eu. Curabitur ac mollis diam.",
+      "imageUrl": "../images/5.jpg",
+      "advertMessage": "Extra deal"
+    },
+    {
+    "id": 6,
+    "name": "Nouser",
+    "basePrice": 3700.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/6.jpg",
+    "advertMessage": "Extra deal"
+    },
+    {
+    "id": 7,
+    "name": "Nexus",
+    "basePrice": 3500.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/7.jpg",
+    "advertMessage": "Extra deal"
+  },
+  {
+    "id": 8,
+    "name": "Pixel 2",
+    "basePrice": 4500.00,
+    "description": "Sample product description. Product description placeholder.",
+    "imageUrl": "../images/8.jpg",
+    "advertMessage": "Extra deal"
+  }
+ ]
